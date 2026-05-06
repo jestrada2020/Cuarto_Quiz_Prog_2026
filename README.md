@@ -1,2 +1,2 @@
-# Cuarto_Quiz_Prog_2026
-Aplicación para medir lo recorrido en manejo de datos
+# Cuarto Quiz de Programación en Bio-python 2026
+Aplicación para medir lo recorrido en el manejo de datos usando PANDAS
